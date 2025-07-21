@@ -6,13 +6,9 @@
 To optimize performance and reduce latency, this search engine leverages Groq, a specialized API for querying Langchain models. Groq provides efficient access to Langchain Mistral, enabling faster response times and smoother user interactions.
 
 By integrating Groq into the search engine, we ensure that users experience minimal delays when querying the language model, resulting in a more responsive and seamless search experience.
-
-
-
 This project is an advanced search engine powered by Langchain Mistral, a state-of-the-art language model. It utilizes cutting-edge natural language processing (NLP) techniques to provide users with accurate and relevant search results.
 
 ## Features
-
 - **AI-Powered Search**: Utilizes Langchain Mistral to understand and interpret user queries.
 - **Customizable LLM Selection**: Allows users to choose from different Langchain Mistral models for their specific needs.
 - **Conversational Memory**: Maintains conversational context to provide more relevant search results over time.
@@ -21,10 +17,7 @@ This project is an advanced search engine powered by Langchain Mistral, a state-
 
 1. Clone the repository:
 
-
-
 2. Install dependencies:
-
 
 3. Run the application:
 
@@ -36,13 +29,11 @@ This project is an advanced search engine powered by Langchain Mistral, a state-
 ## Configuration
 
 
-
 - `groq_api_key`: Your Groq API key for accessing Mistral.
 - `default_model`: The default Langchain Mistral model to use.
 - `conversational_memory_length`: The length of conversational memory to maintain.
 
 For any questions or issues, please open an [issue](https://github.com/your_username/your_repo/issues) on GitHub.
-
 
 
 
@@ -53,6 +44,7 @@ This is the python code developed in advanced and with support to latency speed 
  #
 
 Whether you're aiming to enhance customer engagement, provide swift technical support, or boost your sales efforts through real-time interactions, this tutorial equips you with the knowledge to leverage the power of Groq's TSP technology. 
+
 
 
 Error issue:
